@@ -1,0 +1,96 @@
+C:\Users\Wang Kami\Desktop\Test\Test\bin\Debug\Test.exe.config
+C:\Users\Wang Kami\Desktop\Test\Test\bin\Debug\Test.exe
+C:\Users\Wang Kami\Desktop\Test\Test\bin\Debug\Test.pdb
+C:\Users\Wang Kami\Desktop\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Wang Kami\Desktop\Test\Test\obj\Debug\Test.Form1.resources
+C:\Users\Wang Kami\Desktop\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Wang Kami\Desktop\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+C:\Users\Wang Kami\Desktop\Test\Test\obj\Debug\Test.exe
+C:\Users\Wang Kami\Desktop\Test\Test\obj\Debug\Test.pdb
+C:\Users\Wang Kami\Desktop\Test\Test\obj\Debug\Test.Forms.Editor.resources
+C:\Users\Wang Kami\Desktop\Test\Test\obj\Debug\Test.Forms.Tile_Palette.resources
+C:\Users\Wang Kami\Desktop\Test\Test\obj\Debug\Test.Forms.Character_Palette.resources
+C:\Users\Wang Kami\Desktop\Test\Test\obj\Debug\Test.Forms.ScenePalette.resources
+C:\Users\Wang Kami\Desktop\Test\Test\obj\Debug\Test.Forms.MapChar.resources
+C:\Users\Wang Kami\Desktop\Test\Test\obj\Debug\Interop.WMPLib.dll
+C:\Users\Wang Kami\Desktop\Test\Test\obj\Debug\Test.csproj.ResolveComReference.cache
+K:\Demo Project Game of OOP Team\Test\Test\bin\Debug\Test.exe.config
+K:\Demo Project Game of OOP Team\Test\Test\bin\Debug\Test.exe
+K:\Demo Project Game of OOP Team\Test\Test\bin\Debug\Test.pdb
+K:\Demo Project Game of OOP Team\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+K:\Demo Project Game of OOP Team\Test\Test\obj\Debug\Interop.WMPLib.dll
+K:\Demo Project Game of OOP Team\Test\Test\obj\Debug\Test.csproj.ResolveComReference.cache
+K:\Demo Project Game of OOP Team\Test\Test\obj\Debug\Test.Forms.Character_Palette.resources
+K:\Demo Project Game of OOP Team\Test\Test\obj\Debug\Test.Forms.Editor.resources
+K:\Demo Project Game of OOP Team\Test\Test\obj\Debug\Test.Form1.resources
+K:\Demo Project Game of OOP Team\Test\Test\obj\Debug\Test.Forms.MapChar.resources
+K:\Demo Project Game of OOP Team\Test\Test\obj\Debug\Test.Forms.ScenePalette.resources
+K:\Demo Project Game of OOP Team\Test\Test\obj\Debug\Test.Forms.Tile_Palette.resources
+K:\Demo Project Game of OOP Team\Test\Test\obj\Debug\Test.Properties.Resources.resources
+K:\Demo Project Game of OOP Team\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+K:\Demo Project Game of OOP Team\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+K:\Demo Project Game of OOP Team\Test\Test\obj\Debug\Test.exe
+K:\Demo Project Game of OOP Team\Test\Test\obj\Debug\Test.pdb
+K:\Demo Project Game of OOP Team\DemoV6_Les6\ProjectDemoV6_edited\Test\bin\Debug\Test.exe.config
+K:\Demo Project Game of OOP Team\DemoV6_Les6\ProjectDemoV6_edited\Test\bin\Debug\Test.exe
+K:\Demo Project Game of OOP Team\DemoV6_Les6\ProjectDemoV6_edited\Test\bin\Debug\Test.pdb
+K:\Demo Project Game of OOP Team\DemoV6_Les6\ProjectDemoV6_edited\Test\obj\Debug\Test.csprojAssemblyReference.cache
+K:\Demo Project Game of OOP Team\DemoV6_Les6\ProjectDemoV6_edited\Test\obj\Debug\Interop.WMPLib.dll
+K:\Demo Project Game of OOP Team\DemoV6_Les6\ProjectDemoV6_edited\Test\obj\Debug\Test.csproj.ResolveComReference.cache
+K:\Demo Project Game of OOP Team\DemoV6_Les6\ProjectDemoV6_edited\Test\obj\Debug\Test.Forms.Character_Palette.resources
+K:\Demo Project Game of OOP Team\DemoV6_Les6\ProjectDemoV6_edited\Test\obj\Debug\Test.Forms.Editor.resources
+K:\Demo Project Game of OOP Team\DemoV6_Les6\ProjectDemoV6_edited\Test\obj\Debug\Test.Form1.resources
+K:\Demo Project Game of OOP Team\DemoV6_Les6\ProjectDemoV6_edited\Test\obj\Debug\Test.Forms.FormMenu.resources
+K:\Demo Project Game of OOP Team\DemoV6_Les6\ProjectDemoV6_edited\Test\obj\Debug\Test.Forms.MapChar.resources
+K:\Demo Project Game of OOP Team\DemoV6_Les6\ProjectDemoV6_edited\Test\obj\Debug\Test.Forms.ScenePalette.resources
+K:\Demo Project Game of OOP Team\DemoV6_Les6\ProjectDemoV6_edited\Test\obj\Debug\Test.Forms.Tile_Palette.resources
+K:\Demo Project Game of OOP Team\DemoV6_Les6\ProjectDemoV6_edited\Test\obj\Debug\Test.Properties.Resources.resources
+K:\Demo Project Game of OOP Team\DemoV6_Les6\ProjectDemoV6_edited\Test\obj\Debug\Test.csproj.GenerateResource.cache
+K:\Demo Project Game of OOP Team\DemoV6_Les6\ProjectDemoV6_edited\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+K:\Demo Project Game of OOP Team\DemoV6_Les6\ProjectDemoV6_edited\Test\obj\Debug\Test.exe
+K:\Demo Project Game of OOP Team\DemoV6_Les6\ProjectDemoV6_edited\Test\obj\Debug\Test.pdb
+K:\Demo Project Game of OOP Team\DemoV6_Les6\ProjectDemoV6_Edited\Test\bin\Debug\aa\Test.resources.dll
+K:\Demo Project Game of OOP Team\DemoV6_Les6\ProjectDemoV6_Edited\Test\obj\Debug\Test.Forms.FormMenu.aa.resources
+K:\Demo Project Game of OOP Team\DemoV6_Les6\ProjectDemoV6_Edited\Test\obj\Debug\aa\Test.resources.dll
+C:\Users\Wang Kami\Desktop\ProjectDemoV6_edited\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Wang Kami\Desktop\ProjectDemoV6_edited\Test\obj\Debug\Interop.WMPLib.dll
+C:\Users\Wang Kami\Desktop\ProjectDemoV6_edited\Test\obj\Debug\Test.csproj.ResolveComReference.cache
+C:\Users\Wang Kami\Desktop\ProjectDemoV6_edited\Test\obj\Debug\Test.Forms.Character_Palette.resources
+C:\Users\Wang Kami\Desktop\ProjectDemoV6_edited\Test\obj\Debug\Test.Forms.Editor.resources
+C:\Users\Wang Kami\Desktop\ProjectDemoV6_edited\Test\obj\Debug\Test.Form1.resources
+C:\Users\Wang Kami\Desktop\ProjectDemoV6_edited\Test\obj\Debug\Test.Forms.MapChar.resources
+C:\Users\Wang Kami\Desktop\ProjectDemoV6_edited\Test\obj\Debug\Test.Forms.ScenePalette.resources
+C:\Users\Wang Kami\Desktop\ProjectDemoV6_edited\Test\obj\Debug\Test.Forms.Tile_Palette.resources
+C:\Users\Wang Kami\Desktop\ProjectDemoV6_edited\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Wang Kami\Desktop\ProjectDemoV6_edited\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\Wang Kami\Desktop\ProjectDemoV6_edited\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Wang Kami\Desktop\ProjectDemoV6_edited\Test\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Wang Kami\Desktop\ProjectDemoV6_edited\Test\bin\Debug\Interop.WMPLib.dll
+C:\Users\Wang Kami\Desktop\ProjectDemoV6_edited\Test\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Wang Kami\Desktop\ProjectDemoV6_edited\Test\bin\Debug\BK's Knights.exe.config
+C:\Users\Wang Kami\Desktop\ProjectDemoV6_edited\Test\bin\Debug\BK's Knights.exe
+C:\Users\Wang Kami\Desktop\ProjectDemoV6_edited\Test\bin\Debug\BK's Knights.pdb
+C:\Users\Wang Kami\Desktop\ProjectDemoV6_edited\Test\obj\Debug\BK's Knights.exe
+C:\Users\Wang Kami\Desktop\ProjectDemoV6_edited\Test\obj\Debug\BK's Knights.pdb
+C:\Users\Wang Kami\Desktop\ProjectDemoV6_edited\Test\obj\Debug\Test.Forms.NewMapWindow.resources
+D:\ProjectOOP20192\Main Project\Game\Test\bin\Debug\BK's Knights.exe.config
+D:\ProjectOOP20192\Main Project\Game\Test\bin\Debug\BK's Knights.exe
+D:\ProjectOOP20192\Main Project\Game\Test\bin\Debug\BK's Knights.pdb
+D:\ProjectOOP20192\Main Project\Game\Test\bin\Debug\Interop.WMPLib.dll
+D:\ProjectOOP20192\Main Project\Game\Test\bin\Debug\AxInterop.WMPLib.dll
+D:\ProjectOOP20192\Main Project\Game\Test\obj\Debug\Test.csprojAssemblyReference.cache
+D:\ProjectOOP20192\Main Project\Game\Test\obj\Debug\Interop.WMPLib.dll
+D:\ProjectOOP20192\Main Project\Game\Test\obj\Debug\AxInterop.WMPLib.dll
+D:\ProjectOOP20192\Main Project\Game\Test\obj\Debug\Test.csproj.ResolveComReference.cache
+D:\ProjectOOP20192\Main Project\Game\Test\obj\Debug\Test.Forms.Character_Palette.resources
+D:\ProjectOOP20192\Main Project\Game\Test\obj\Debug\Test.Forms.Editor.resources
+D:\ProjectOOP20192\Main Project\Game\Test\obj\Debug\Test.Form1.resources
+D:\ProjectOOP20192\Main Project\Game\Test\obj\Debug\Test.Forms.MapChar.resources
+D:\ProjectOOP20192\Main Project\Game\Test\obj\Debug\Test.Forms.NewMapWindow.resources
+D:\ProjectOOP20192\Main Project\Game\Test\obj\Debug\Test.Forms.ScenePalette.resources
+D:\ProjectOOP20192\Main Project\Game\Test\obj\Debug\Test.Forms.Tile_Palette.resources
+D:\ProjectOOP20192\Main Project\Game\Test\obj\Debug\Test.Properties.Resources.resources
+D:\ProjectOOP20192\Main Project\Game\Test\obj\Debug\Test.csproj.GenerateResource.cache
+D:\ProjectOOP20192\Main Project\Game\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\ProjectOOP20192\Main Project\Game\Test\obj\Debug\BK's Knights.exe
+D:\ProjectOOP20192\Main Project\Game\Test\obj\Debug\BK's Knights.pdb

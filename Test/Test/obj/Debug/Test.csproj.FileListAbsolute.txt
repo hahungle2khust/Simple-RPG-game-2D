@@ -1,0 +1,33 @@
+C:\Users\Wang Kami\Desktop\Test\Test\bin\Debug\Test.exe.config
+C:\Users\Wang Kami\Desktop\Test\Test\bin\Debug\Test.exe
+C:\Users\Wang Kami\Desktop\Test\Test\bin\Debug\Test.pdb
+C:\Users\Wang Kami\Desktop\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Wang Kami\Desktop\Test\Test\obj\Debug\Test.Form1.resources
+C:\Users\Wang Kami\Desktop\Test\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Wang Kami\Desktop\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+C:\Users\Wang Kami\Desktop\Test\Test\obj\Debug\Test.exe
+C:\Users\Wang Kami\Desktop\Test\Test\obj\Debug\Test.pdb
+C:\Users\Wang Kami\Desktop\Test\Test\obj\Debug\Test.Forms.Editor.resources
+C:\Users\Wang Kami\Desktop\Test\Test\obj\Debug\Test.Forms.Tile_Palette.resources
+C:\Users\Wang Kami\Desktop\Test\Test\obj\Debug\Test.Forms.Character_Palette.resources
+C:\Users\Wang Kami\Desktop\Test\Test\obj\Debug\Test.Forms.ScenePalette.resources
+C:\Users\Wang Kami\Desktop\Test\Test\obj\Debug\Test.Forms.MapChar.resources
+C:\Users\Wang Kami\Desktop\Test\Test\obj\Debug\Interop.WMPLib.dll
+C:\Users\Wang Kami\Desktop\Test\Test\obj\Debug\Test.csproj.ResolveComReference.cache
+D:\ProjectOOP20192\Csharp\Test\Test\bin\Debug\Test.exe.config
+D:\ProjectOOP20192\Csharp\Test\Test\bin\Debug\Test.exe
+D:\ProjectOOP20192\Csharp\Test\Test\bin\Debug\Test.pdb
+D:\ProjectOOP20192\Csharp\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+D:\ProjectOOP20192\Csharp\Test\Test\obj\Debug\Interop.WMPLib.dll
+D:\ProjectOOP20192\Csharp\Test\Test\obj\Debug\Test.csproj.ResolveComReference.cache
+D:\ProjectOOP20192\Csharp\Test\Test\obj\Debug\Test.Forms.Character_Palette.resources
+D:\ProjectOOP20192\Csharp\Test\Test\obj\Debug\Test.Forms.Editor.resources
+D:\ProjectOOP20192\Csharp\Test\Test\obj\Debug\Test.Form1.resources
+D:\ProjectOOP20192\Csharp\Test\Test\obj\Debug\Test.Forms.MapChar.resources
+D:\ProjectOOP20192\Csharp\Test\Test\obj\Debug\Test.Forms.ScenePalette.resources
+D:\ProjectOOP20192\Csharp\Test\Test\obj\Debug\Test.Forms.Tile_Palette.resources
+D:\ProjectOOP20192\Csharp\Test\Test\obj\Debug\Test.Properties.Resources.resources
+D:\ProjectOOP20192\Csharp\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+D:\ProjectOOP20192\Csharp\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+D:\ProjectOOP20192\Csharp\Test\Test\obj\Debug\Test.exe
+D:\ProjectOOP20192\Csharp\Test\Test\obj\Debug\Test.pdb
